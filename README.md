@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saasland – SaaS & Startup React JS Template
 
 #### Preview
@@ -45,3 +46,6 @@ Design and code is completely written by Codescandy and development team.
 - Design and Code is Copyright &copy; [Codescandy](https://codescandy.com/)
 - Licensed cover under [MIT]
 - Distributed by [ThemeWagon](https://themewagon.com)
+=======
+# Imagino
+>>>>>>> 0dcd427e03fa4c1ea10384cc9bc38461b15e4374
