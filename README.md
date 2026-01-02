@@ -1,14 +1,6 @@
 
 # Imagino – SaaS & Startup React JS Template
 
-#### Preview
-
-- [Demo](https://themewagon.github.io/saasland/)
-
-#### Download
-
-- [Download from ThemeWagon](https://themewagon.com/themes/saasland/)
-
 ## Getting Started
 
 1. Clone Repository
